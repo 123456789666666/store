@@ -1,0 +1,159 @@
+header {
+    background-color: #FFEFED;
+    height: 100vh;
+    margin-bottom: 4%;
+}
+.xxx1 {
+    height: 50px;
+}
+.feat{
+    margin-top: 15%;
+}
+.feat a{
+    text-decoration: none;
+    color: white;
+    background-color: orange;
+    border: solid 1px orange ;
+    border-radius: 20px;
+    padding: 9px;   
+}
+.feate{
+    margin-top: 8%;
+}
+.logo2{
+    height: 50px;
+}
+.logo4{
+    width: 80%;
+    margin-right: ;
+}
+.rest{
+    margin-left: 15%;
+}
+.features h1{
+    text-align: center;    
+}
+hr{
+    width: 150px;
+    margin-left: 45%;
+    margin-right: 55%;
+    color: red;
+    margin-bottom: 100px;
+}
+.logo5{
+    
+    width: 100%;
+}
+
+.i{
+    color: orange;
+    margin-left: 15px;
+}
+.features{
+    margin-bottom: 7%;
+}
+.features p{
+    margin: 15px;
+}
+.fghhh h3{
+    margin-right: 400px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+}
+.fghhh{
+    width: 75%;
+    margin-left: 165px;
+}
+.calc{
+    padding: auto 0;
+    background:radial-gradient(#fff,#ffd6d6) ;
+    margin-bottom: 6%;
+}
+.offer-img{
+    width: 60%;
+    padding-top: 15px;
+    padding-bottom: 25px;
+   margin-left: 100px;
+}
+
+.p1{
+    padding-top: 80px;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    border: solid 2px orange;
+    padding: 7px;
+    border-radius: 50px;
+}
+.btn:hover{
+    color: orangered;
+    background-color: white;
+}
+.rating{
+    margin-left: 10px;
+    color: orange;
+}
+.op{
+    cursor: pointer;
+    box-shadow: 0 0 20px rgba(0, 0, .5, .1);
+    margin-right: 50px;
+    transition: 1s;
+    transform: scale(1.1);
+}
+.op:hover{
+    transform: translate(10px);
+}
+.starting{
+margin-left: 10px;
+color: orange;
+
+}
+.opinion p{
+    margin-left: 10px;
+}
+.opinion h2{
+    margin-left: 10px;
+}
+.opinion img{
+    width: 100px;
+}
+.opinio{
+    margin-left: 13%;
+    margin-bottom: 3%;
+}
+.brands{
+    margin-bottom: 100px;
+}
+.brand{
+    margin-left: 130px;
+}
+.br{
+    filter:grayscale(100%)
+}
+.br:hover{
+    filter:grayscale(0)
+}
+footer p{
+    font-size: 10px;
+}
+.p3{
+    font-size: 15px;
+}
+
+footer h3{
+    font-weight: bold;
+}
+.main-footer{
+    text-decoration: none;
+    color: white;
+    list-style: none;
+}
+.main-footer li{
+   margin-bottom: 5px;
+}
+.main-footer li a{
+    text-decoration: none;
+    color: white;
+}
